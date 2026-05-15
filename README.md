@@ -1,11 +1,6 @@
 # 💫 About Me:
 🏗️ I'm currently working on   → Problems Solving<br>🤝 I'm looking to collaborate on  → Beginner-friendly C/C++ or Java projects<br>🧡 I'm looking for help with  → Advanced Data Structures & Algorithms<br>🌱 I'm currently learning  → OOP, DSA, and Java at FAST-NUCES<br>💬 Ask me about  → C, C++, Java, or life as a SE student at FAST<br>⚡ Fun fact  → I debug my code faster than I debug my life 😄
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](# 💫 About Me:
-🏗️ I'm currently working on   → Problems Solving<br>🤝 I'm looking to collaborate on  → Beginner-friendly C/C++ or Java projects<br>🧡 I'm looking for help with  → Advanced Data Structures & Algorithms<br>🌱 I'm currently learning  → OOP, DSA, and Java at FAST-NUCES<br>💬 Ask me about  → C, C++, Java, or life as a SE student at FAST<br>⚡ Fun fact  → I debug my code faster than I debug my life 😄
-
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadullah.dahri.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asadullah_1099/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-dahri-153436384/) [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadullahdahri200@gmail.com) 
 
@@ -28,5 +23,4 @@
 ---
 [![](https://komarev.com/ghpvc/?username=Asad-000&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/asadullag_1099) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asadullah Dahri) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Asadullah Dahri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadullahdahri200@gmail.com) 
 
