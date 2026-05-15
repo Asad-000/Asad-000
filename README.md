@@ -2,8 +2,7 @@
 🏗️ I'm currently working on   → Problems Solving<br>🤝 I'm looking to collaborate on  → Beginner-friendly C/C++ or Java projects<br>🧡 I'm looking for help with  → Advanced Data Structures & Algorithms<br>🌱 I'm currently learning  → OOP, DSA, and Java at FAST-NUCES<br>💬 Ask me about  → C, C++, Java, or life as a SE student at FAST<br>⚡ Fun fact  → I debug my code faster than I debug my life 😄
 
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadullah.dahri.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asadullah_1099/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-dahri-153436384/) [email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asadullahdahri200@gmail.com) 
-
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/asadullah.dahri.7) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/asadullah_1099/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asadullah-dahri-153436384/) [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:asadullahdahri200@gmail.com)
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 # 📊 GitHub Stats:
